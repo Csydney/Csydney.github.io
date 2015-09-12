@@ -1,0 +1,28 @@
+body {
+    background-color: burlywood;
+    font-family: 微軟正黑體, "Comic Sans MS";
+    text-align: center;
+}
+
+h1 {
+    letter-spacing: 0.5em;
+    background-color: ;
+    color: ;
+}
+
+h2 {
+    font-style: italic;
+    background-color: white;
+}
+
+div {
+    width: 250px;
+    height: 200px;
+    background-color: brown;
+    display: inline;
+}
+
+p {
+    line-height: 1.4em;
+    word-spacing: 8em
+}
